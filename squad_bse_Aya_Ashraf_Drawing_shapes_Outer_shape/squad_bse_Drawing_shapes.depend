@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663182365 source:h:\vortex_2022\v_bse\squad_bse_drawing_shapes\main.c
+	<stdio.h>
+	<stdlib.h>
+
