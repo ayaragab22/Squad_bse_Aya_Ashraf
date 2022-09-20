@@ -1,0 +1,17 @@
+Drawing shapes task in C programming language
+
+1)Team roles:
+The whole squad worked on this task like one person, we did everything together.
+
+2)Task description:
+
+  2.1)First, we declared the shape structure which has two variables: 
+     a)First variable represents the shape character.
+     b)The second represents the shape max height.
+
+  2.2)We declared the functions of each shape before the main function, then we initialize them after tha main function.
+
+  2.3)In the main function the user should enter the character which represents the desired shape and its maximum height, 
+      and according to the input char the shape function is called and then the desired shape is on the screen.
+      If the user entered wrong char the program will allert him/her.
+
