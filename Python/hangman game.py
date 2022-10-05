@@ -1,7 +1,6 @@
 import random
 wordsList = ['potato','watermelon','banana','dog',
              'panda','monday','penguin']
-             
 word = random.choice(wordsList)
 guess = [] #array that contains the letters of the word in each index
 length = len(word)
